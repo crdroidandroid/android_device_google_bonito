@@ -24,9 +24,6 @@ PRODUCT_PLATFORM := sdm670
 include device/google/bonito/device-audio-mfg.mk
 include device/google/bonito/device.mk
 
-#Ship GCam
-$(call inherit-product, vendor/Camera/b4s4/config.mk)
-
 # Device now uses mini_gapps
 TARGET_USES_MINI_GAPPS := true
 
