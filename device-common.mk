@@ -24,9 +24,6 @@ PRODUCT_PLATFORM := sdm670
 include device/google/bonito/device-audio-mfg.mk
 include device/google/bonito/device.mk
 
-# Device now uses mini_gapps
-TARGET_USES_MINI_GAPPS := true
-
 # Maybe will fix bootanimations ?
 TARGET_BOOT_ANIMATION_RES := 1080
 
