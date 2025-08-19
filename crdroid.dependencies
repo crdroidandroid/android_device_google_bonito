@@ -1,0 +1,22 @@
+[
+    {
+        "repository": "crdroidandroid/android_packages_apps_ElmyraService",
+        "target_path": "packages/apps/ElmyraService",
+        "branch": "15.0"
+    },
+    {
+            "repository": "crdroidandroid/android_kernel_google_b4s4",
+        "target_path": "kernel/google/b4s4",
+        "branch": "15.0"
+    },
+    {
+            "repository": "crdroidandroid/android_vendor_google_bonito",
+        "target_path": "vendor/google/bonito",
+        "branch": "15.0"
+    },
+    {
+            "repository": "crdroidandroid/android_device_google_gs-common",
+        "target_path": "device/google/gs-common",
+        "branch": "15.0"
+    }
+]
